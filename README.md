@@ -1,0 +1,4 @@
+# Indoor air quality measurement
+The EXTECH CO210 meter (Extech Instruments, US) was used to measure the temperature, relative air humidity, and CO2 concentration, with the possibility of recording data on a USB flash drive integrated with the device. Measurements were carried out in bathrooms continuously with a 5-minute time interval.
+# Fungal sampling and identification
+Samples for indoor airborne fungi were collected and analysed in accordance with the requirements and recommendations of the European standard EN 17141:2020. Petri dishes containing sterile Sabouraud medium with chloramphenicol (BTL, Poland) were placed 1 m above the ground and 1 m away from any barriers such as walls, windows, and doors. The assessment of air microbiological purity was conducted with Koch's sedimentation method, using the exposure time of 20 min. The air samples were collected twice a day, between 9:00 a.m. and 12:00 a.m. and 6:00 p.m. and 8:00 p.m., respectively. 
